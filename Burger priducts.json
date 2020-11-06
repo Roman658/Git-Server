@@ -2,7 +2,7 @@
   {"id":758,"title":"Cheeseburger","price":80,"image":"images/cheeseburger-34315.svg","counter":1},
   {"id":868,"title":"Chicken burger","price":100,"image":"images/hamburger-576419.svg","counter":1},
   {"id":935,"title":"Hamburger","price":200,"image":"images/cheeseburger-155659_640.png","counter":1},
-  {"id"724,"title":"Fish burger","price":150,"image":"images/burger-31770_640.png","counter":1},
+  {"id":724,"title":"Fish burger","price":150,"image":"images/burger-31770_640.png","counter":1},
   {"id":857,"title":"Big burger","price":200,"image":"images/burger-312704_640.png","counter":1},
   {"id":825,"title":"Coffee","price":80,"image":"images/coffee-34251_640.png","counter":1},
   {"id":947,"title":"Tea","price":150,"image":"images/tea-153336_640.png","counter":1},
